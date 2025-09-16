@@ -21,4 +21,7 @@
 | 資料庫設計 | 進行中 | 小華 | 2023-01-30 | 
 | 前端介面 | 未開始 | 小李 | 2023-02-15 |
 
-```print("Hello,   World!")```
+```python
+print("Hello, World!")
+print("Hello, World!")
+```
